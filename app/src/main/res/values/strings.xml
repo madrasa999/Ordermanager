@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">OrderManager</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="clients_name">Clients name</string>
+    <string name="date_picker_title">Date of Order</string>
+    <string name="delete_order">Delete</string>
+    <string name="update_order">Update </string>
+    <string name="create_order">create order</string>
+    <string name="static_order">Statistik</string>
+
+
+</resources>
